@@ -15,7 +15,7 @@ _DESCRIPTION = """Dataset with radiography images belonging to three different c
                     
 """
 
-_TRAIN_URL = 'https://drive.google.com/uc?export=download&id=12sq9rO5nSgl-fmWD2KtHocU2xUyX38qP'
+_TRAIN_URL = 'https://drive.google.com/uc?export=download&id=158PjWZiOZ-0ueDdtmMEn9eTsKCDb0Pbv'
 _TEST_URL = 'https://drive.google.com/uc?export=download&id=12sq9rO5nSgl-fmWD2KtHocU2xUyX38qP'
 
 _IMAGE_SHAPE = (1024, 1024)
